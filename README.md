@@ -1,8 +1,17 @@
 # TronC
 Tron game in C
 
-### Pre-requisitos
-$sudo apt-get install libncurses5-dev
+### Pré-requisitos
+- Esteja em um ambiente Linux
+- Rode o seguinte comando no terminal:
+```
+sudo apt-get install libncurses5-dev
+```
 
 ### Rodar
-$make -s
+- Rode o seguinte comando no terminal, dentro do diretório do jogo:
+```
+make -s
+```
+
+Obs: Para que o jogo funcione corretamente, a janela do terminal deve estar flutuando pela Área de Trabalho.
